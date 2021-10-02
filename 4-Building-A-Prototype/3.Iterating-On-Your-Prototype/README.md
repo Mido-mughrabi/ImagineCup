@@ -7,7 +7,7 @@ Think of your prototype development as having the following phases:
 
 1. **Ideation**, you start thinking of various ideas and may first start by creating mockups for the system just to get a feeling for it
 2. **Your first prototype**, you might start writing some code just to see that it's possible to create. It should have a "rough" look at this point, something that isn't pretty to look at, but it works
-3. **A stable prototype**. You prototype up until know probably just worked under certain conditions with certain type of input data and the code isn't pretty or even hard to change. Focus on refactoring the code, mov out configuration data and start thinking architecture
+3. **A stable prototype**. You prototype up until know probably just worked under certain conditions with certain type of input data and the code isn't pretty or even hard to change. Focus on refactoring the code, move out configuration data and start thinking architecture
 - **Back to step one**. At this point you have a stable core and you want to add features and make it even better. It's a good idea to start with pen and paper and mockups and/or user surveys just to understand what better looks like. Once you have a decent understanding then you can go to writing more code. 
 
 See all these steps as cyclical, ideate, write code, make it stable and ideate again.
